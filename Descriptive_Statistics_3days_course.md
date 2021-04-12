@@ -12,5 +12,7 @@ During the last several years I have written - among others - a script for a thr
     </embed>
 </object>
 
+[embed]https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf[/embed]
+
 Needless to say that all these concepts can be implemented straightforward by means of Python. 
 
