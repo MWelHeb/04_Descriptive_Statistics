@@ -1,1 +1,8 @@
+<p align="right"> <a href="https://github.com/MWelHeb/empirical_eyes/blob/master/README.md">Back to emprical eyes</a> </p>
+
+<img src = "Python.jfif" width="150"><img src = "Description_Covid_Scan_page1.jpg" width="220"><img src = "Description_Covid_Scan_page2.jpg" width="220"><img src = "Streamlit_scrsh5.JPG" width="200"><img src = "Cloud.jfif" width="200">
+
+# <a name="id0"></a>Descriptive Statistics - 3 days course 
+
+During the last several years I have written a script for a three days course focusing on descriptive statistics combined with some "hands on" exercises and use cases. Given that statistical concepts are also on key component of data science I thought it would be reasonable to provide the script for download here.  
 
