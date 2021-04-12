@@ -1,6 +1,6 @@
 <p align="right"> <a href="https://github.com/MWelHeb/empirical_eyes/blob/master/README.md">Back to emprical eyes</a> </p>
 
-<img src = "Statistics_1.jfif" width="150"><img src = "Description_Covid_Scan_page1.jpg" width="220"><img src = "Description_Covid_Scan_page2.jpg" width="220"><img src = "Streamlit_scrsh5.JPG" width="200"><img src = "Cloud.jfif" width="200">
+<img src = "Statistics_1.jfif" width="150"><img src = "Statistics_2.png" width="220"><img src = "Statistics_3.jpg" width="220"><img src = "Statistics_4.jfif" width="200">
 
 # <a name="id0"></a>Descriptive Statistics - 3 days course 
 
