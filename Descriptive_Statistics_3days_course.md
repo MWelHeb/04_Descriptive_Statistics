@@ -4,5 +4,8 @@
 
 # <a name="id0"></a>Descriptive Statistics - 3 days course 
 
-During the last several years I have written a script for a three days course focusing on descriptive statistics combined with some "hands on" exercises and use cases. Given that statistical concepts are also on key component of data science I thought it would be reasonable to provide the script for download here.  
+During the last several years I have written - among others - a script for a three days course focusing on descriptive statistics combined with some "hands on" exercises and use cases. Given that statistical concepts are also one key component of data science I thought it would be reasonable to provide the script for download here. 
+
+
+Needless to say all these concepts can be implemented by means of Python. 
 
