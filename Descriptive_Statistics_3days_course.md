@@ -6,13 +6,7 @@
 
 During the last several years I have written - among others - a script for a three days course focusing on descriptive statistics combined with some "hands on" exercises and use cases. Given that statistical concepts are also one key component of data science I thought it would be reasonable to provide the script for download here
 
-<object data="https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-[embed]https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf[/embed]
+- [Descriptive Statistics 3 Days Course](https://github.com/MWelHeb/04_Descriptive_Statistics/blob/main/Descriptive_Statistics_Course_Final_12042021.pdf)
 
 Needless to say that all these concepts can be implemented straightforward by means of Python. 
 
