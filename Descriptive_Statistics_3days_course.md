@@ -4,7 +4,7 @@
 
 # <a name="id0"></a>Descriptive Statistics - 3 days course 
 
-During the last several years I have written - among others - a script for a three days course focusing on descriptive statistics combined with some "hands on" exercises and use cases. The script is written for a three days course and focuses content wise on following topics:
+During the last several years I have written - among others - a script focusing on descriptive statistics for practitioners (e.g. in the airline industry) combined with some "hands on" exercises and use cases. The script is written for a three days course and focuses content wise on following topics:
 
 1. Introduction 
 2. Displaying Descriptive Statistics
